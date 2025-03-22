@@ -1,1 +1,1 @@
-A Barangay Information System (BIS) is a computerized system designed to help barangays efficiently manage records and information about their community. Its primary purpose is to streamline document processing, track residents, and maintain organized data for barangay officials.
+Barangay Information System (BIS) streamlines barangay records, automates services, and improves accessibility for officials and residents, enhancing efficiency and transparency.
