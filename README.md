@@ -1,2 +1,1 @@
-# COMPROG2-FinalProject
-
+A Barangay Information System (BIS) is a computerized system designed to help barangays efficiently manage records and information about their community. Its primary purpose is to streamline document processing, track residents, and maintain organized data for barangay officials.
