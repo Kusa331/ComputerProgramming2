@@ -1,2 +1,2 @@
-# Kusa331-ComputerProgramming2-project
+# COMPROG2-FinalProject
 
